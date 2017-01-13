@@ -1,0 +1,12 @@
+input {
+    display: inline-block;
+}
+
+.productTable {
+    padding: 10px;
+    display: inline-block;
+}
+
+.searchBar {
+    padding-bottom: 10px;
+}
